@@ -34,7 +34,7 @@ This schema helps deliver fast, flexible, and accurate insights essential for da
 The project showcases multiple interactive Power BI dashboards designed to unlock actionable insights from OLIST data:
 
 ### Customer Insights View  
- 
+ ![Customers Insights](customer-insights-view.png)  
 Most customers are based in São Paulo (SP) state, which is the largest economic hub of Brazil and a key driver of e-commerce activity. The OLIST e-commerce dataset can be segmented into three main buyer groups: the mass market base, which consists of a broad population buying affordable products regularly; premium buyers, who purchase expensive items but less frequently; and regular buyers, who make frequent purchases over time. Most orders fall within the $51-$100 range, indicating a strong middle-market demand. Notably, the city of São Paulo alone accounts for 14% of total sales, underscoring its dominant role in Brazil’s e-commerce landscape.
 
 
