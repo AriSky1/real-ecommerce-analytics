@@ -34,16 +34,16 @@ This schema helps deliver fast, flexible, and accurate insights essential for da
 The project showcases multiple interactive Power BI dashboards designed to unlock actionable insights from OLIST data:
 
 ### Customer Insights View  
- ![Customers Insights](customer-insights-view.png)  
+
 Most customers are based in São Paulo (SP) state, which is the largest economic hub of Brazil and a key driver of e-commerce activity. The OLIST e-commerce dataset can be segmented into three main buyer groups: the mass market base, which consists of a broad population buying affordable products regularly; premium buyers, who purchase expensive items but less frequently; and regular buyers, who make frequent purchases over time. Most orders fall within the $51-$100 range, indicating a strong middle-market demand. Notably, the city of São Paulo alone accounts for 14% of total sales, underscoring its dominant role in Brazil’s e-commerce landscape.
 
 
 ### Operational Efficiency View  
-![Operational Efficiency](operational-efficiency-view.png)  
+
 Amazonas (AM) and Ceará (CE) are Brazilian states known for frequent shipping delays primarily due to challenging geography and infrastructure limitations. Amazonas, covered by dense rainforest with many remote areas accessible only by river or air, faces complex and slow logistics. Ceará, located in the Northeast and farther from major economic hubs, also deals with infrastructure bottlenecks that slow down deliveries. Both states experience higher freight costs, which can deprioritize shipments, and seasonal weather conditions such as heavy rains and flooding further disrupt transport. These combined factors make shipping to AM and CE slower and less reliable compared to other regions in Brazil.
 
 ### Sales Performance View  
-![Sales Performance](sales-performace-view.png)  
+
 In 2017-2018, watches, gifts, and health & beauty soared in Brazilian e-commerce as online shopping grew fast, fueled by social media trends and easier access to products. Watches and gifts are often listed together because both are popular gift choices online. São Paulo led as the biggest buyer thanks to its huge population, strong economy, and advanced infrastructure making online shopping smoother and faster.
 
 ---
