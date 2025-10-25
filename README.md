@@ -36,19 +36,19 @@ This schema helps deliver fast, flexible, and accurate insights essential for da
 The project showcases multiple interactive Power BI dashboards designed to unlock actionable insights from OLIST data:
 
 ### Customer Insights View  
- ![Customers Insights](customer-insights-view.png) <img width="506" height="24" alt="image" src="https://github.com/user-attachments/assets/26e14e22-3b42-450b-866d-a7b6afd502ad" />
+ ![Customers Insights](customer-insights-view.png) 
 
 Most customers are based in São Paulo (SP) state, which is the largest economic hub of Brazil and a key driver of e-commerce activity. The customers can be segmented into three main buyer groups: One Time Low Value Buyers, which consists of a broad population buying affordable products only once; Big Buyers, who purchase expensive items but less frequently; and regular buyers, who make frequent purchases over time. Most orders fall within the $51-$100 range, indicating a strong middle-market demand. Notably, the city of São Paulo alone accounts for 38% of total sales, underscoring its dominant role in Brazil’s e-commerce landscape.
 
 
 ### Operational Efficiency View  
 ![Operational Efficiency](operational-efficiency-view.png)  
-<img width="559" height="24" alt="image" src="https://github.com/user-attachments/assets/ba6a20d9-5e7e-40b0-86af-2e3a386b9cb8" />
+
 
 Some Brazilian states are known for frequent shipping delays primarily due to challenging geography and infrastructure limitations. Those states experience higher freight costs, which can deprioritize shipments, and seasonal weather conditions such as heavy rains and flooding further disrupt transport. 
 
 ### Sales Performance View  
-![Sales Performance](sales-performance-view.png)  <img width="501" height="24" alt="image" src="https://github.com/user-attachments/assets/b61acae6-6662-4767-8d2d-ae68b56442d2" />
+![Sales Performance](sales-performance-view.png)  
 
 In 2017-2018, watches, gifts, and health & beauty soared in Brazilian e-commerce as online shopping grew fast, fueled by social media trends and easier access to products. Watches and gifts are often listed together because both are popular gift choices online. São Paulo led as the biggest buyer thanks to its huge population, strong economy, and advanced infrastructure making online shopping smoother and faster.  The sellers can be segmented into three main seller groups: Emerging Sellers, which consists of a broad group selling few to few customers; Top Performers, who sell expensive items to many customers; and Growing Sellers, who sell an average amount of products to an average amount of buyers.
 
