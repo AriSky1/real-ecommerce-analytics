@@ -13,7 +13,8 @@ The OLIST dataset is **one of the largest and most detailed e-commerce datasets 
 - Delivery and logistics data  
 
 This depth and variety make OLIST a perfect playground for **business intelligence**, data analytics, and machine learning projects focused on retail and e-commerce.
-[ ![Video](e-commerce-video.mp4)](https://github.com/AriSky1/real-ecommerce-analytics/assets/b2af918d2aaeb1ec1ae7391acdb64f775355ba9f/e-commerce-video.mp4)<img width="912" height="46" alt="image" src="https://github.com/user-attachments/assets/1fa53c4a-00c9-4d40-bee6-9829ac562158" />
+
+https://github.com/AriSky1/real-ecommerce-analytics/assets/b2af918d2aaeb1ec1ae7391acdb64f775355ba9f
 
 ---
 
