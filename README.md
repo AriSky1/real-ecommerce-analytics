@@ -36,16 +36,19 @@ The project showcases multiple interactive Power BI dashboards designed to unloc
 ### Customer Insights View  
  ![Customers Insights](customer-insights-view.png) <img width="506" height="24" alt="image" src="https://github.com/user-attachments/assets/26e14e22-3b42-450b-866d-a7b6afd502ad" />
 
-Most customers are based in São Paulo (SP) state, which is the largest economic hub of Brazil and a key driver of e-commerce activity. The OLIST e-commerce dataset can be segmented into three main buyer groups: the mass market base, which consists of a broad population buying affordable products regularly; premium buyers, who purchase expensive items but less frequently; and regular buyers, who make frequent purchases over time. Most orders fall within the $51-$100 range, indicating a strong middle-market demand. Notably, the city of São Paulo alone accounts for 14% of total sales, underscoring its dominant role in Brazil’s e-commerce landscape.
+Most customers are based in São Paulo (SP) state, which is the largest economic hub of Brazil and a key driver of e-commerce activity. The customers can be segmented into three main buyer groups: One Time Low Value Buyers, which consists of a broad population buying affordable products only once; Big Buyers, who purchase expensive items but less frequently; and regular buyers, who make frequent purchases over time. Most orders fall within the $51-$100 range, indicating a strong middle-market demand. Notably, the city of São Paulo alone accounts for 38% of total sales, underscoring its dominant role in Brazil’s e-commerce landscape.
 
 
 ### Operational Efficiency View  
+![Operational Efficiency](operational-efficiency-view.png)  
+<img width="559" height="24" alt="image" src="https://github.com/user-attachments/assets/ba6a20d9-5e7e-40b0-86af-2e3a386b9cb8" />
 
-Amazonas (AM) and Ceará (CE) are Brazilian states known for frequent shipping delays primarily due to challenging geography and infrastructure limitations. Amazonas, covered by dense rainforest with many remote areas accessible only by river or air, faces complex and slow logistics. Ceará, located in the Northeast and farther from major economic hubs, also deals with infrastructure bottlenecks that slow down deliveries. Both states experience higher freight costs, which can deprioritize shipments, and seasonal weather conditions such as heavy rains and flooding further disrupt transport. These combined factors make shipping to AM and CE slower and less reliable compared to other regions in Brazil.
+Some Brazilian states are known for frequent shipping delays primarily due to challenging geography and infrastructure limitations. Those states experience higher freight costs, which can deprioritize shipments, and seasonal weather conditions such as heavy rains and flooding further disrupt transport. 
 
 ### Sales Performance View  
+![Sales Performance](sales-performace-view.png)  <img width="501" height="24" alt="image" src="https://github.com/user-attachments/assets/b61acae6-6662-4767-8d2d-ae68b56442d2" />
 
-In 2017-2018, watches, gifts, and health & beauty soared in Brazilian e-commerce as online shopping grew fast, fueled by social media trends and easier access to products. Watches and gifts are often listed together because both are popular gift choices online. São Paulo led as the biggest buyer thanks to its huge population, strong economy, and advanced infrastructure making online shopping smoother and faster.
+In 2017-2018, watches, gifts, and health & beauty soared in Brazilian e-commerce as online shopping grew fast, fueled by social media trends and easier access to products. Watches and gifts are often listed together because both are popular gift choices online. São Paulo led as the biggest buyer thanks to its huge population, strong economy, and advanced infrastructure making online shopping smoother and faster.  The sellers can be segmented into three main seller groups: Emerging Sellers, which consists of a broad group selling few to few customers; Top Performers, who sell expensive items to many customers; and Growing Sellers, who sell an average amount of products to an average amount of buyers.
 
 ---
 
@@ -54,7 +57,12 @@ In 2017-2018, watches, gifts, and health & beauty soared in Brazilian e-commerce
 - **Hands-on experience with a complex, real-world dataset** simulating e-commerce business operations  
 ![Snowflake-schema](snowflake-schema.png)  
 
-  
+## Future Enhancements
+
+Predictive modeling for delivery time estimation
+Customer lifetime value (CLV) analysis
+Network analysis of sellers and product categories
+Machine learning models for personalized recommendations
 
 
 
