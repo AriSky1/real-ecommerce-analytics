@@ -14,7 +14,7 @@ The OLIST dataset is **one of the largest and most detailed e-commerce datasets 
 
 This depth and variety make OLIST a perfect playground for **business intelligence**, data analytics, and machine learning projects focused on retail and e-commerce.
 
-https://github.com/user-attachments/assets/b2af918d2aaeb1ec1ae7391acdb64f775355ba9f
+https://github.com/user-attachments/b2af918d2aaeb1ec1ae7391acdb64f775355ba9f
 
 ---
 
@@ -48,7 +48,7 @@ Most customers are based in São Paulo (SP) state, which is the largest economic
 Some Brazilian states are known for frequent shipping delays primarily due to challenging geography and infrastructure limitations. Those states experience higher freight costs, which can deprioritize shipments, and seasonal weather conditions such as heavy rains and flooding further disrupt transport. 
 
 ### Sales Performance View  
-![Sales Performance](sales-performace-view.png)  <img width="501" height="24" alt="image" src="https://github.com/user-attachments/assets/b61acae6-6662-4767-8d2d-ae68b56442d2" />
+![Sales Performance](sales-performance-view.png)  <img width="501" height="24" alt="image" src="https://github.com/user-attachments/assets/b61acae6-6662-4767-8d2d-ae68b56442d2" />
 
 In 2017-2018, watches, gifts, and health & beauty soared in Brazilian e-commerce as online shopping grew fast, fueled by social media trends and easier access to products. Watches and gifts are often listed together because both are popular gift choices online. São Paulo led as the biggest buyer thanks to its huge population, strong economy, and advanced infrastructure making online shopping smoother and faster.  The sellers can be segmented into three main seller groups: Emerging Sellers, which consists of a broad group selling few to few customers; Top Performers, who sell expensive items to many customers; and Growing Sellers, who sell an average amount of products to an average amount of buyers.
 
