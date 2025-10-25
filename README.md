@@ -13,7 +13,7 @@ The OLIST dataset is **one of the largest and most detailed e-commerce datasets 
 - Delivery and logistics data  
 
 This depth and variety make OLIST a perfect playground for **business intelligence**, data analytics, and machine learning projects focused on retail and e-commerce.
-
+ ![Video](e-commerce-video.mp4)
 ---
 
 ## Business Schema: The Snowflake Model
@@ -59,10 +59,10 @@ In 2017-2018, watches, gifts, and health & beauty soared in Brazilian e-commerce
 
 ## Future Enhancements
 
-Predictive modeling for delivery time estimation
-Customer lifetime value (CLV) analysis
-Network analysis of sellers and product categories
-Machine learning models for personalized recommendations
+- Predictive modeling for delivery time estimation
+- Customer lifetime value (CLV) analysis
+- Network analysis of sellers and product categories
+- Machine learning models for personalized recommendations
 
 
 
